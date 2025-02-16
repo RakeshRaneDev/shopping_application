@@ -12,6 +12,7 @@
 /product_service/.idea/
 /order-service/.idea/
 /inventory-service/.idea/
+/api-gateway/.idea/
 *.idea
 
 # Package Files #
