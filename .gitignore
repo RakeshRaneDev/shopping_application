@@ -12,7 +12,7 @@
 /product_service/.idea/
 /order-service/.idea/
 /inventory-service/.idea/
-/.idea
+*.idea
 
 # Package Files #
 *.jar
